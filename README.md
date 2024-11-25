@@ -1,8 +1,9 @@
-# E-commerce
-The project delivers a modern and user-friendly internet shopping website to facilitate B2B trade.
+<h1 align="center">B2B E-commerce Website by @zeynepcol</h1> 
+
+The project delivers a modern and user-friendly internet shopping website to facilitate **B2B** trade.
 
 
-> This how looked home page 
+ This how looked home page 
 
 
 
