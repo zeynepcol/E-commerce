@@ -2,6 +2,7 @@
 
 The project delivers a modern and user-friendly internet shopping website to facilitate **B2B** trade.
 
+<h3 align="left">IMAGES</h3>
 
  This how looked home page 
 
