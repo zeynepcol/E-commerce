@@ -208,10 +208,10 @@ namespace EcommerceProject2.Controllers
                     entities.SaveChanges();
                 }
 
-                // Yeniden yönlendirme veya başka bir işlem yapılabilir
                 return RedirectToAction("Coupons");
             }
         }
+        
         [HttpGet]
         public ActionResult AddCoupons()
         {
@@ -269,14 +269,11 @@ namespace EcommerceProject2.Controllers
                         throw;
                     }
                 }
-
                 else
                 {
                     Response.Write("<script>alert('Only .JPG , .JPEG , .PNG Formats Are Allowed')</script>");
                 }
-
             }
-
             else
             {
                 Response.Write("<script>alert('Please Select a File')</script>");
@@ -286,6 +283,5 @@ namespace EcommerceProject2.Controllers
 
             return path;
         }
-
     }
 }
